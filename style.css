@@ -5,8 +5,7 @@ body {
   overflow-x: hidden;
 }
 .card{
- margin: auto;
- row-gap: 30px;
+margin: auto;
 }
 h3{
   padding-top: 10px;
@@ -24,6 +23,8 @@ header{
   display: flex;
   justify-content: space-between;
   width: 100%;
+  flex-wrap: wrap;
+  
 }
 .nav{
   /* background-color: black; */
